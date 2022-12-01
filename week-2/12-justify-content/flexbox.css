@@ -7,3 +7,11 @@
 }
 
 /* Add your own CSS code below */
+.countries--third {
+  margin-bottom: 150px;
+  display: block;
+}
+.countries--second {
+  margin: 15px;
+  border: solid black;
+}

@@ -2,3 +2,11 @@
   display: flex;
 }
 /* Add your own CSS code below */
+.countries--first {
+  align-items: baseline;
+  align-items: center;
+}
+.countries--second {
+  margin-bottom: 150px;
+  flex-direction: row-reverse;
+}
