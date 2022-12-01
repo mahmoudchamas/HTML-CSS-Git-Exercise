@@ -8,10 +8,9 @@
 
 /* Add your own CSS code below */
 .countries--third {
-  margin-bottom: 150px;
-  display: block;
+  flex-direction: column;
 }
-.countries--second {
-  margin: 15px;
-  border: solid black;
+.countries--fourth {
+  flex-direction: column-reverse;
+  justify-content: space-between;
 }
