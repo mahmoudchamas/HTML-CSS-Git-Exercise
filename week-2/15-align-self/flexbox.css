@@ -3,3 +3,9 @@
 }
 
 /* Add your own CSS code below */
+.countries--first {
+  flex-direction: row;
+}
+.countries--first {
+  display: flex;
+}
